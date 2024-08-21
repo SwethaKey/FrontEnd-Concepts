@@ -1,0 +1,22 @@
+
+String Method
+
+These are build in function to manipulate a String
+
+
+// String is ==== Immutable(We Cannot Change)
+
+1) str.toUpperCase()
+2) str.toLowerCase()
+3) str.trim()   ===== removes whitespaces
+
+
+4) str.replace(searchVal, newVal)
+5) str.slice(start, end?) // returns part of string
+            (1, 3)
+
+6) str.concat(str2) // joins str2 with str1
+7) str.charAt(idx)
+
+
+

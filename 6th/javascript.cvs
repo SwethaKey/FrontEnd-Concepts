@@ -1,0 +1,122 @@
+// inside Head in HTML
+<style> ==== tah connects HTML and CSS
+<link>
+
+
+// inside Body in HTML
+<script> ==== tah connects HTML and JS
+
+
+Readability
+Modular
+Browser Coaching
+
+
+
+///NOte
+
+console.log("hello");
+window.console.log("hello");
+
+
+window ===== is an Object
+alert("hello");
+window.alert("hello");
+
+
+
+HTML code is can    
+                  access in jS
+                              inside JS created as Object
+                                                 Object is called as Documnets
+                                                               Documnets is present in Window
+
+
+
+<script>
+alert("hello"); 
+</script>
+
+
+
+window                         == Object
+window.documnet                == you can see HTML    //documnet is called as model
+console.dir(window.documnet)   == you can see object
+
+ 
+console.log(); ====== print [returns the object in its string representation]
+console.dir(); ====== documnet === print property and methods [recognizes the object just as an object and outputs its properties]
+
+
+DOM [Document Object Model]----------------------------------------------------------------------------------------------------
+
+
+Dynamic Changes === DOM we use
+
+
+DOM Manipulation
+
+            Properties
+
+tagName : returns tag for element nodes
+innerText : returns the text content of the element and all its children [pure TExt content]
+innerHTML : returns the plain text or HTML contents in the element [pure text and html content]
+textContent : returns textual content even for hidden elements[can work as innertext and also hidden text also work]
+
+
+parents
+      child        
+
+        (descendants) // all childNOde continues generation we called 
+          childNode
+
+
+
+
+textNodes
+comment
+elements ==== very important Node
+
+
+
+
+
+
+
+
+
+
+// style.CSS
+
+ID === will be unique (#)
+ClASS === we can give same name to everywhere (.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <h1>Old heading</h1>
+      <h2 style="visibility: hidden">Old heading</h2>
+      <div>abcd <div>
+      </div>
+      <p>Simple text</p>
+      </div>
+      <h1 class="myclass"> DOM Demo by Apnacollage </h1>
+      <h1 class="myclass"> Javacript </h1>
+      <h1 class="myclass">  1 Javacript </h1>
+      <h4>Topic 1</h4>
+      <p>Learning concept of DOM concept to learning javascript</p>
+      <p>New Paragraph</p>
+      <button id="myid">Click Here</button>
+      <script src="demo.js"></script>
+
+
+

@@ -1,0 +1,25 @@
+
+
+
+property == length is property given value
+method == doing work
+
+
+// Arrays in JS: (mutable === you can change)
+      Collections of items
+
+
+// Arrays datatype is an === Object
+
+Arrays Methods>
+
+Push() =====   add to end
+pop() ======   delete from end and return
+toString() ==  converts array to toString
+concat() ====  joins multiple arrays and returns result
+unshift() ===  add to start
+shift() ===== delete from start and return
+slice ======= returns a piece of the array (original array not change)
+             slice(startldx,endldx)
+splice() ==== change original array(add, remove, replace) [original array will change]
+             splice(startldx, delCount, newEl1...)

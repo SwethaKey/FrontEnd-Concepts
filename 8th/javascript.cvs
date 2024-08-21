@@ -1,0 +1,21 @@
+
+
+
+Events in JS:
+            The change in the state of an object is known as an Events
+
+
+Inline Events Handings === JS handing [JS is the priority]
+
+
+
+
+node.event = (e) => {
+//handle here
+}
+e.target, e.type, e.clientX, e.clientY
+
+
+[event == event,e,evt]
+
+

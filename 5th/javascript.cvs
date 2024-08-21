@@ -1,0 +1,42 @@
+
+
+redundancy === repeat
+NaN ==== Not a number
+
+invoke
+
+1) function we have parameter  --> like local varisble of function --> block scope
+
+
+
+
+note:
+    
+    forEach()
+
+    methods can be bind with array
+
+    arr.forEach(callBackFunction)
+
+
+
+                     item , position,
+                     value , index, arrItself
+arr.forEach(function(element, index, array){
+      // code to execute for each element
+})
+ 
+Interview Question: 
+      Higher order function/method (which function is used to another function parameter 
+      and another function return is called as in forEach loop in Arrays)
+
+
+
+
+forEach = is used as normal calculation
+map = is used to create new array
+filter = is used to filter even r odd r greater 
+reduce = is used to return a single value
+
+
+
